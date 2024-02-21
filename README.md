@@ -1,2 +1,1 @@
-# Repository-OOC-BEBC
-Exercise
+Bootcamp Day 2
